@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **JavaScript, and Data Structure and Algorithms**
 
-- 📝 I regularly write articles on [https://medium.com/@abhinavay2003](https://medium.com/@abhinavay2003)
 
 - 💬 Ask me about **HTML, CSS, JAVA**
 
