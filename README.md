@@ -1,54 +1,36 @@
 # Hi 👋, I'm Abhinav Yadav
 
-### Software Engineer | Full Stack Developer
+Software Engineer passionate about building products, developer tools, and AI-powered applications.
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### About Me
 
-I'm a Software Engineer from India passionate about building scalable web applications, developer tools, and impactful products.
+* 🚀 Building web and mobile applications
+* 💻 Working primarily with React, Next.js, Node.js, and TypeScript
+* 📱 Developing mobile apps using React Native & Expo
+* 🐍 Using Python for automation and AI experiments
+* 🌱 Currently learning System Design, Distributed Systems, and AI Agents
+* ⚡ I enjoy turning ideas into products
 
-* 🚀 Currently working as a Software Engineer
-* 🌱 Learning **System Design, Distributed Systems, AI Agents, and Cloud Architecture**
-* 💻 Experienced with **React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma**
-* 🧠 Exploring **LLMs, Voice Agents, and AI Product Development**
-* ⚡ Fun fact: I love turning ideas into products
+### Tech Stack
 
-### 💬 Ask me about
+```txt
+Frontend     React • Next.js • TypeScript • Tailwind CSS
+Mobile       React Native • Expo
+Backend      Node.js • Express.js • Python
+Database     MongoDB • PostgreSQL • Prisma • Supabase
+Cloud        AWS • Docker • Vercel
+```
 
-* React & Next.js
-* Node.js & Backend Development
-* REST APIs & Database Design
-* System Design Fundamentals
-* JavaScript & TypeScript
-* AI Integrations
+### Find Me Online
 
-### 📫 Reach me
+🌐 Portfolio: https://abhinavyadav.in
 
-**Email:** [abhinavay2003@gmail.com](mailto:abhinavay2003@gmail.com)
+📝 Blog: https://abhinavyadav.in/blog
 
-### 🌐 Portfolio
+💼 LinkedIn: https://linkedin.com/in/abhinavay
 
-**Website:** https://abhinavyadav.in
+𝕏 X: https://twitter.com/abhinavvay
 
-### 🛠 Tech Stack
+---
 
-#### Frontend
-
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux Toolkit
-
-#### Backend
-
-Node.js • Express.js • REST APIs • WebSockets
-
-#### Database
-
-MongoDB • PostgreSQL • Prisma • Supabase
-
-#### DevOps & Cloud
-
-Docker • Git • GitHub • AWS • Vercel
-
-#### Currently Exploring
-
-AI Agents • Voice AI • System Design • Distributed Systems
-
-> Building, learning, and improving every day.
+> Building. Learning. Shipping.
